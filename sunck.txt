@@ -1,0 +1,12 @@
+Please call me Lew
+ok
+
+
+.gitignore  可以将不想推到 远程仓库 上的文件 “拦截下来不上传”
+例如：-sunck目录下 有一个叫 bao 的 文件， 
+		 -编辑 .gitignore 输入bao
+		 -再push  会发现 bao文件并没有上传到远程仓库中
+		 
+
+branch sunck is very good man
+gggggggg
